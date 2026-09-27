@@ -1,5 +1,5 @@
 # Hi, I'm Gauri Kumari👋
-### Aspiring Full-Stack Web Developer
+### Frontend Developer
 
 I'm currently learning and building
 projects with modern web technologies.
