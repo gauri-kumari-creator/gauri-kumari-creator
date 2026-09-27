@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Gauri Kumari👋
+### Aspiring Full-Stack Web Developer
 
-<!--
-**gauri-kumari-creator/gauri-kumari-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning and building
+projects with modern web technologies.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+- Next.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Currently Learning
+- Full-Stack Web Development
+- React.js
+- Next.js
+- Node.js
+- Backend Development
+- Git & GitHub
+
+## Projects
+- Portfolio Website
+- Netflix Clone
+- Spotify Clone
+- X.com(Twitter)
+- Todo-App
+- Password Manager
+
+ ## Goal
+ To build real-world web
+ applications, grow as a developer,
+ and start my career in web 
+ development.
+
